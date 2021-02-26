@@ -1,5 +1,5 @@
 {
-    "name": "node-sprite-generator",
+    "name": "nsg-forked",
     "version": "0.10.3",
     "description": "Generates image sprites and their spritesheets (css, stylus, sass, scss or less) from sets of images. Supports retina sprites. Provides express middleware and grunt task.",
     "main": "lib/index.js",
@@ -61,7 +61,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git://github.com/selaux/node-sprite-generator"
+        "url": "git://github.com/Leereozk/node-sprite-generator"
     },
     "license": "MIT"
 }
