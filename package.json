@@ -1,5 +1,5 @@
 {
-    "name": "@Leereozk/node-sprite-generator",
+    "name": "@leereozk/node-sprite-generator",
     "version": "0.10.3",
     "description": "Generates image sprites and their spritesheets (css, stylus, sass, scss or less) from sets of images. Supports retina sprites. Provides express middleware and grunt task.",
     "main": "lib/index.js",
